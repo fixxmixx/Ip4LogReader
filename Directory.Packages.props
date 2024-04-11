@@ -1,0 +1,12 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="getopt.net-bsd" Version="0.9.1" />
+    <PackageVersion Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup Label="Test">
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.10.0-release-24177-07" />
+    <PackageVersion Include="NUnit" Version="4.1.0" />
+    <PackageVersion Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+</Project>
